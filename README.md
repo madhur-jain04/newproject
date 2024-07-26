@@ -1,4 +1,4 @@
 # newproject
 practice of using github
 <br>
-author- jain
+author- madhur jain
